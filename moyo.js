@@ -1,3 +1,3 @@
 function contact_lem () {
-    alert("email: lemueltembi@gmail.com\ncountry: Cameroon\ntel:680022229");
+    alert("email: lemuelmutah@gmail.com\ncountry: USA\ntel:2028170702");
 }
